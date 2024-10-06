@@ -40,18 +40,17 @@ The project outputs include various visualizations and metrics that provide insi
 1. **Pie Charts of Flight Shares:**
    - The pie charts display the share of flights for each airline operating on the routes. This information is critical for understanding market dominance and competition.
 
+   ![blr_del](https://github.com/user-attachments/assets/98e81d31-2a36-45ff-b1a2-50fe06ed3164)
+   ![Screenshot 2024-10-06 at 11 36 40 PM](https://github.com/user-attachments/assets/3aeeff66-970b-4408-a8d8-453aca3dac8e)
+   ![Screenshot 2024-10-06 at 11 36 53 PM](https://github.com/user-attachments/assets/8b0b4422-aa2d-4de1-a9fa-ffac003a9fe3)
 
-
-2. **Probability of Success:**
+2. **Probability of Success and Estimated Ticket Costs:**
    - The calculated probability reflects the chances of successfully launching a new route based on current traffic patterns. This metric helps potential airline operators make informed decisions.
-     
-
-
-
-3. **Estimated Ticket Costs:**
    - Based on the number of competitors and flight frequency, we estimated the average ticket cost for passengers. Understanding pricing strategies in response to competition can inform revenue management for airlines.
 
    ![Screenshot 2024-10-06 at 11 36 08 PM](https://github.com/user-attachments/assets/b9163b7b-f4c7-4d33-8d38-b78d69a83bd1)
+   ![Screenshot 2024-10-06 at 11 36 26 PM](https://github.com/user-attachments/assets/bff27cbe-1638-4cc1-b59e-e7588eb568bf)
+   ![Screenshot 2024-10-06 at 11 37 12 PM](https://github.com/user-attachments/assets/299c7867-9c2c-45ec-9000-c4ff88208f94)
 
 
 ## Conclusion
