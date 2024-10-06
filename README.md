@@ -40,17 +40,19 @@ The project outputs include various visualizations and metrics that provide insi
 1. **Pie Charts of Flight Shares:**
    - The pie charts display the share of flights for each airline operating on the routes. This information is critical for understanding market dominance and competition.
 
-   ![Flight Share Pie Chart - Route](insert_pie_chart_image_here)
+
 
 2. **Probability of Success:**
    - The calculated probability reflects the chances of successfully launching a new route based on current traffic patterns. This metric helps potential airline operators make informed decisions.
+     
 
-   ![Probability of Success - Route](insert_probability_image_here)
+
 
 3. **Estimated Ticket Costs:**
    - Based on the number of competitors and flight frequency, we estimated the average ticket cost for passengers. Understanding pricing strategies in response to competition can inform revenue management for airlines.
 
-   ![Estimated Ticket Cost - Route](insert_ticket_cost_image_here)
+   ![Estimated Ticket Cost - Route](![Uploading Screenshot 2024-10-06 at 11.36.08 PM.jpg…]()
+)
 
 ## Conclusion
 
