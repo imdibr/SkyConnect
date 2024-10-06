@@ -51,8 +51,8 @@ The project outputs include various visualizations and metrics that provide insi
 3. **Estimated Ticket Costs:**
    - Based on the number of competitors and flight frequency, we estimated the average ticket cost for passengers. Understanding pricing strategies in response to competition can inform revenue management for airlines.
 
-   ![Estimated Ticket Cost - Route](![Uploading Screenshot 2024-10-06 at 11.36.08 PM.jpg…]()
-)
+   ![Screenshot 2024-10-06 at 11 36 08 PM](https://github.com/user-attachments/assets/b9163b7b-f4c7-4d33-8d38-b78d69a83bd1)
+
 
 ## Conclusion
 
