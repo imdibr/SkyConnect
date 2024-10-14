@@ -38,9 +38,11 @@ Throughout the project, several important concepts were explored:
 The project outputs include various visualizations and metrics that provide insights into the analyzed routes. Below, we outline the key visualizations and their implications:
 
 1. **Pie Charts of Flight Shares:**
+   
    - The pie charts display the share of flights for each airline operating on the routes. This information is critical for understanding market dominance and competition.
 
-2. **Probability of Success and Estimated Ticket Costs:**
+3. **Probability of Success and Estimated Ticket Costs:**
+   
    - The calculated probability reflects the chances of successfully launching a new route based on current traffic patterns. This metric helps potential airline operators make informed decisions.
    - Based on the number of competitors and flight frequency, we estimated the average ticket cost for passengers. Understanding pricing strategies in response to competition can inform revenue management for airlines.
 
