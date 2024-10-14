@@ -44,7 +44,6 @@ The project outputs include various visualizations and metrics that provide insi
    - The calculated probability reflects the chances of successfully launching a new route based on current traffic patterns. This metric helps potential airline operators make informed decisions.
    - Based on the number of competitors and flight frequency, we estimated the average ticket cost for passengers. Understanding pricing strategies in response to competition can inform revenue management for airlines.
 
-
 ## Conclusion
 
 The Flight Route Analysis Project provides valuable insights into the aviation market by analyzing routes between major cities. The use of real-world data from Kaggle allows for a comprehensive understanding of airline competition, flight frequencies, and factors influencing route success. Through data cleaning, visualization, and statistical analysis, we have gained a deeper understanding of the dynamics at play in the aviation sector.
