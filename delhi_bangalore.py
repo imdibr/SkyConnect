@@ -6,7 +6,9 @@ import geopandas as gpd
 from shapely.geometry import Point
 
 # Load the dataset
-file_path = '/Users/imadibrahim/Downloads/routes.csv'
+file_path = r'C:\Users\in6u7278\skyconnect\SkyConnect\routes.csv'
+
+
 df = pd.read_csv(file_path)
 
 # Clean the data: remove leading/trailing spaces from column names
