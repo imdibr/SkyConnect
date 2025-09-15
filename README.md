@@ -10,6 +10,7 @@ This project focuses on analyzing flight routes using datasets obtained from Kag
 
 By utilizing this dataset, we aim to extract insights regarding airline competition, flight frequency, and the estimated success rate for potential new routes. This project demonstrates how altering specific parameters can lead to varied outputs, offering a deeper understanding of the aviation market dynamics.
 
+
 ## Objectives
 
 - Analyze flight data for three key routes.
