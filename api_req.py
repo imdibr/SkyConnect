@@ -4,6 +4,7 @@ import requests
 username = 'imdibr'
 password = '6s@WSK2XV6TDVjt'
 
+
 # Make a request to the API
 response = requests.get(
     'https://opensky-network.org/api/flights/all',

@@ -17,3 +17,4 @@ This `requirements.txt` file lists all the necessary Python packages required to
 To install the required packages, run:
 ```bash
 pip install -r requirements.txt
+
